@@ -74,3 +74,13 @@ The dashboard successfully provides a 360-degree view of the Madhav E-commerce s
 * Focus efforts on high-performing states and loyal customers.
 
 This project demonstrates how well-designed dashboards can empower businesses to make smarter, data-backed decisions and adapt strategies dynamically.
+
+---
+
+Dashboard:
+![image](https://github.com/user-attachments/assets/43e8c9bd-1c0a-4d80-b313-c268078c10b6)
+
+---
+
+Too check the full dashboard download the Dashboard file and open it in PowerBI, also if you want to create your own dashboard using the same data then use both the csv files. 
+
