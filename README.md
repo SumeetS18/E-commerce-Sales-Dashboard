@@ -78,7 +78,7 @@ This project demonstrates how well-designed dashboards can empower businesses to
 ---
 
 Dashboard:
-![image](https://github.com/user-attachments/assets/43e8c9bd-1c0a-4d80-b313-c268078c10b6)
+![Uploading image.png…]()
 
 ---
 
